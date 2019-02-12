@@ -81,7 +81,7 @@ def callback(msg):
     #markers.publishCube(P, 'blue', cube_width, 5.0)
 
     #Write to Goals.yaml as used by the magni_goal_sender package
-    f = open("/home/centaur/catkin_ws/src/magni_goal_sender/param/safe_ waypoints.txt","a+")
+    f = open("/home/centaur/catkin_ws/src/magni_goal_sender/param/safe_waypoints.txt","a+")
     f.write("- %f, %f, %f\n" % (position.x, position.y, quat.z))
     f.close()
 
