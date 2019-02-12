@@ -1,0 +1,1 @@
+pkill -f goal_sender.py

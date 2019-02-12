@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+  <!-- send goals -->
+  <node name="goal_sender" pkg="magni_goal_sender" type="goal_sender.py" output="screen">
+    <param name="param_filename" value="$(find magni_goal_sender)/param/final_goals_0.yaml"/>
+    <param name="rate" value="25"/>
+  </node>
+</launch>
