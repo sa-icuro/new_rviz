@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/centaur/catkin_ws/devel/setup.sh

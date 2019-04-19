@@ -1,0 +1,8 @@
+prefix=/home/centaur/catkin_ws/devel
+
+Name: magni_goal_sender
+Description: Description of magni_goal_sender
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/centaur/catkin_ws/devel/lib 
+Requires: 

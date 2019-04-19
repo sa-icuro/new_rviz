@@ -1,0 +1,2 @@
+fiducials/aruco_detect:fiducials/fiducial_msgs:fiducials/fiducial_slam:fiducials/fiducials:magni_goal_sender:rviz_plugin_tutorials:rviz_tools_py:ubiquity_tools
+-DCATKIN_DEVEL_PREFIX=/home/centaur/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/centaur/catkin_ws/install -G Unix Makefiles

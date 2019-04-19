@@ -1,0 +1,8 @@
+prefix=/home/centaur/catkin_ws/install
+
+Name: ubiquity_tools
+Description: Description of ubiquity_tools
+Version: 0.10.3
+Cflags: 
+Libs: -L/home/centaur/catkin_ws/install/lib 
+Requires: 

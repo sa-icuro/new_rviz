@@ -1,1 +1,0 @@
-python ~/catkin_ws/src/magni_goal_sender/scripts/goal_sender.py &

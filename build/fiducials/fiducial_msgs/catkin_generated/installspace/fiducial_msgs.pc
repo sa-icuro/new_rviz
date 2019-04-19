@@ -1,0 +1,8 @@
+prefix=/home/centaur/catkin_ws/install
+
+Name: fiducial_msgs
+Description: Description of fiducial_msgs
+Version: 0.10.0
+Cflags: -I/home/centaur/catkin_ws/install/include
+Libs: -L/home/centaur/catkin_ws/install/lib 
+Requires: message_runtime
